@@ -75,8 +75,7 @@ let hourDifference = Nowdate.getHours();
 
 let dayDifference = Math.floor(difference /(1000 * 60 * 60 * 24));
 
-let MonthDifference = oldDate.getMonth() - Nowdate.getMonth() +
- (12 * (oldDate.getFullYear() - Nowdate.getFullYear()));
+let MonthDifference = Nowdate.getMonth() - oldDate.getMonth() + (12 * (Nowdate.getFullYear() - oldDate.getFullYear() ) );
  
 let YearDifference =   Nowdate.getFullYear() - oldDate.getFullYear();
 
@@ -92,7 +91,7 @@ document.getElementById("months").innerHTML =0 ;
 
 }
 else {
-document.getElementById("months").innerHTML = MonthDifference; 
+document.getElementById("months").innerHTML = 444;
 
 }
 
