@@ -1,10 +1,5 @@
-# SinceSpursLastCostArsenalTheLeague
-countdown of since spurs last cost my beloved arsenal the premier league
-
-PLEASE BEAWARE MONTH DIFFERENCE IS CURRENTLY INACCURATE AND NEEDS WORK
 
 
+https://harrymosdell.github.io/footballSeasonCountdown1/
 link
 
-
-[https://harrymosdell.github.io/SinceSpursLastCostArsenalTheLeague/](https://harrymosdell.github.io/footballSeasonCountdown1/)
